@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wisereads</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="email_support">info@wisereads.com</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+</resources>
